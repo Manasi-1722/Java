@@ -1,9 +1,9 @@
-package Search_Algo;
+package LinearSearch;
 
 import java.util.Arrays;
 
 // search in 2D arrays
-public class L4 {
+public class SearchIn2DArray {
     public static void main(String[] args) {
         int[][] arr = {
             {1, 2, 3, 4, 5},

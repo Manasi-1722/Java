@@ -1,6 +1,6 @@
-package Search_Algo;
+package LinearSearch;
 
-public class L3 {
+public class FindMinMax {
     public static void main(String[] args) {
         int[] arr = {74, 88, 2, 4, 91, 87, 77, 17, 22};
         // int max = arr[0];

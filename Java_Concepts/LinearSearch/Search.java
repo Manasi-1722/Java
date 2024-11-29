@@ -1,8 +1,8 @@
-package Search_Algo;
+package LinearSearch;
 
 import java.util.Arrays;
 
-public class L1 {
+public class Search {
     public static void main(String[] args) {
         String str = "Mansi";
         char target = 'i';

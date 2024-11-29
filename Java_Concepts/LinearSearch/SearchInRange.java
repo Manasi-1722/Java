@@ -1,6 +1,6 @@
-package Search_Algo;
+package LinearSearch;
 
-public class L2 {
+public class SearchInRange {
     public static void main(String[] args) {
         int[] arr = {1,2,4,3,5,6,7,8};
         int target = 7;
